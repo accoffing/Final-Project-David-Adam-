@@ -1,0 +1,331 @@
+"","Country","HDIGDI","EconomicFreedom","Happiness","AlcoholLifeExpectancy","LifeExpectancy19602016"
+"1","Afghanistan","1","1","1","1","1"
+"2","Albania","1","1","1","1","1"
+"3","Algeria","1","1","1","1","1"
+"4","Andorra","1",NA,NA,"1","1"
+"5","Angola","1","1","1","1","1"
+"6","Antigua and Barbuda","1",NA,NA,"1","1"
+"7","Arab States","1",NA,NA,NA,NA
+"8","Argentina","1","1","1","1","1"
+"9","Armenia","1","1","1","1","1"
+"10","Australia","1","1","1","1","1"
+"11","Austria","1","1","1","1","1"
+"12","Azerbaijan","1","1","1","1","1"
+"13","Bahamas","1","1",NA,"1",NA
+"14","Bahrain","1","1","1","1","1"
+"15","Bangladesh","1","1","1","1","1"
+"16","Barbados","1","1",NA,"1","1"
+"17","Belarus","1","1","1","1","1"
+"18","Belgium","1","1","1","1","1"
+"19","Belize","1","1",NA,"1","1"
+"20","Benin","1","1","1","1","1"
+"21","Bhutan","1","1","1","1","1"
+"22","Bolivia (Plurinational State of)","1",NA,NA,"1",NA
+"23","Bosnia and Herzegovina","1","1","1","1","1"
+"24","Botswana","1","1","1","1","1"
+"25","Brazil","1","1","1","1","1"
+"26","Brunei Darussalam","1","1",NA,"1","1"
+"27","Bulgaria","1","1","1","1","1"
+"28","Burkina Faso","1","1","1","1","1"
+"29","Burundi","1","1","1","1","1"
+"30","CÃ´te d'Ivoire","1",NA,NA,"1",NA
+"31","Cabo Verde","1","1",NA,"1","1"
+"32","Cambodia","1","1","1","1","1"
+"33","Cameroon","1","1","1","1","1"
+"34","Canada","1","1","1","1","1"
+"35","Central African Republic","1","1","1","1","1"
+"36","Chad","1","1","1","1","1"
+"37","Chile","1","1","1","1","1"
+"38","China","1","1","1","1","1"
+"39","Colombia","1","1","1","1","1"
+"40","Comoros","1","1","1","1","1"
+"41","Congo","1",NA,NA,"1",NA
+"42","Congo (Democratic Republic of the)","1",NA,NA,NA,NA
+"43","Costa Rica","1","1","1","1","1"
+"44","Croatia","1","1","1","1","1"
+"45","Cuba","1","1",NA,"1","1"
+"46","Cyprus","1","1","1","1","1"
+"47","Czech Republic","1","1","1","1","1"
+"48","Denmark","1","1","1","1","1"
+"49","Djibouti","1","1","1","1","1"
+"50","Dominica","1","1",NA,"1","1"
+"51","Dominican Republic","1","1","1","1","1"
+"52","East Asia and the Pacific","1",NA,NA,NA,NA
+"53","Ecuador","1","1","1","1","1"
+"54","Egypt","1","1","1","1",NA
+"55","El Salvador","1","1","1","1","1"
+"56","Equatorial Guinea","1","1",NA,"1","1"
+"57","Eritrea","1","1",NA,"1","1"
+"58","Estonia","1","1","1","1","1"
+"59","Ethiopia","1","1","1","1","1"
+"60","Europe and Central Asia","1",NA,NA,NA,NA
+"61","Fiji","1","1",NA,"1","1"
+"62","Finland","1","1","1","1","1"
+"63","France","1","1","1","1","1"
+"64","Gabon","1","1","1","1","1"
+"65","Gambia","1","1",NA,"1",NA
+"66","Georgia","1","1","1","1","1"
+"67","Germany","1","1","1","1","1"
+"68","Ghana","1","1","1","1","1"
+"69","Greece","1","1","1","1","1"
+"70","Grenada","1",NA,NA,"1","1"
+"71","Guatemala","1","1","1","1","1"
+"72","Guinea","1","1","1","1","1"
+"73","Guinea-Bissau","1","1",NA,NA,"1"
+"74","Guyana","1","1",NA,"1","1"
+"75","Haiti","1","1","1","1","1"
+"76","Honduras","1","1","1","1","1"
+"77","Hong Kong, China (SAR)","1",NA,NA,NA,NA
+"78","Hungary","1","1","1","1","1"
+"79","Iceland","1","1","1","1","1"
+"80","India","1","1","1","1","1"
+"81","Indonesia","1","1","1","1","1"
+"82","Iran (Islamic Republic of)","1",NA,NA,"1",NA
+"83","Iraq","1","1","1","1","1"
+"84","Ireland","1","1","1","1","1"
+"85","Israel","1","1","1","1","1"
+"86","Italy","1","1","1","1","1"
+"87","Jamaica","1","1","1","1","1"
+"88","Japan","1","1","1","1","1"
+"89","Jordan","1","1","1","1","1"
+"90","Kazakhstan","1","1","1","1","1"
+"91","Kenya","1","1","1","1","1"
+"92","Kiribati","1","1",NA,"1","1"
+"93","Korea (Republic of)","1",NA,NA,NA,NA
+"94","Kuwait","1","1","1","1","1"
+"95","Kyrgyzstan","1",NA,"1","1",NA
+"96","Lao People's Democratic Republic","1",NA,NA,"1",NA
+"97","Latin America and the Caribbean","1",NA,NA,NA,NA
+"98","Latvia","1","1","1","1","1"
+"99","Lebanon","1","1","1","1","1"
+"100","Lesotho","1","1","1","1","1"
+"101","Liberia","1","1","1","1","1"
+"102","Libya","1","1","1","1","1"
+"103","Liechtenstein","1","1",NA,NA,"1"
+"104","Lithuania","1","1","1","1","1"
+"105","Luxembourg","1","1","1","1","1"
+"106","Madagascar","1","1","1","1","1"
+"107","Malawi","1","1","1","1","1"
+"108","Malaysia","1","1","1","1","1"
+"109","Maldives","1","1",NA,"1","1"
+"110","Mali","1","1","1","1","1"
+"111","Malta","1","1","1","1","1"
+"112","Mauritania","1","1","1","1","1"
+"113","Mauritius","1","1","1","1","1"
+"114","Mexico","1","1","1","1","1"
+"115","Micronesia (Federated States of)","1",NA,NA,"1",NA
+"116","Moldova (Republic of)","1",NA,NA,NA,NA
+"117","Mongolia","1","1","1","1","1"
+"118","Montenegro","1","1","1","1","1"
+"119","Morocco","1","1","1","1","1"
+"120","Mozambique","1","1","1","1","1"
+"121","Myanmar","1",NA,"1","1","1"
+"122","Namibia","1","1",NA,"1","1"
+"123","Nepal","1","1","1","1","1"
+"124","Netherlands","1","1","1","1","1"
+"125","New Zealand","1","1","1","1","1"
+"126","Nicaragua","1","1","1","1","1"
+"127","Niger","1","1","1","1","1"
+"128","Nigeria","1","1","1","1","1"
+"129","Norway","1","1","1","1","1"
+"130","Oman","1","1","1","1","1"
+"131","Pakistan","1","1","1","1","1"
+"132","Palau","1",NA,NA,"1","1"
+"133","Palestine, State of","1",NA,NA,NA,NA
+"134","Panama","1","1","1","1","1"
+"135","Papua New Guinea","1","1",NA,"1","1"
+"136","Paraguay","1","1","1","1","1"
+"137","Peru","1","1","1","1","1"
+"138","Philippines","1","1","1","1","1"
+"139","Poland","1","1","1","1","1"
+"140","Portugal","1","1","1","1","1"
+"141","Qatar","1","1","1","1","1"
+"142","Romania","1","1","1","1","1"
+"143","Russian Federation","1",NA,NA,"1","1"
+"144","Rwanda","1","1","1","1","1"
+"145","Saint Kitts and Nevis","1",NA,NA,"1",NA
+"146","Saint Lucia","1","1",NA,"1",NA
+"147","Saint Vincent and the Grenadines","1","1",NA,"1",NA
+"148","Samoa","1","1",NA,"1","1"
+"149","Sao Tome and Principe","1",NA,NA,"1","1"
+"150","Saudi Arabia","1","1","1","1","1"
+"151","Senegal","1","1","1","1","1"
+"152","Serbia","1","1","1","1","1"
+"153","Seychelles","1","1",NA,"1","1"
+"154","Sierra Leone","1","1","1","1","1"
+"155","Singapore","1","1","1","1","1"
+"156","Slovakia","1","1","1","1",NA
+"157","Slovenia","1","1","1","1","1"
+"158","Solomon Islands","1","1",NA,"1","1"
+"159","South Africa","1","1","1","1","1"
+"160","South Asia","1",NA,NA,NA,"1"
+"161","South Sudan","1",NA,NA,NA,"1"
+"162","Spain","1","1","1","1","1"
+"163","Sri Lanka","1","1","1","1","1"
+"164","Sub-Saharan Africa","1",NA,NA,NA,"1"
+"165","Sudan","1","1","1","1","1"
+"166","Suriname","1","1","1","1","1"
+"167","Swaziland","1",NA,"1","1","1"
+"168","Sweden","1","1","1","1","1"
+"169","Switzerland","1","1","1","1","1"
+"170","Syrian Arab Republic","1",NA,NA,"1","1"
+"171","Tajikistan","1","1","1","1","1"
+"172","Tanzania (United Republic of)","1",NA,NA,NA,NA
+"173","Thailand","1","1","1","1","1"
+"174","The former Yugoslav Republic of Macedonia","1",NA,NA,NA,NA
+"175","Timor-Leste","1","1",NA,NA,"1"
+"176","Togo","1","1","1","1","1"
+"177","Tonga","1","1",NA,"1","1"
+"178","Trinidad and Tobago","1","1","1","1","1"
+"179","Tunisia","1","1","1","1","1"
+"180","Turkey","1","1","1","1","1"
+"181","Turkmenistan","1","1","1","1","1"
+"182","Uganda","1","1","1","1","1"
+"183","Ukraine","1","1","1","1","1"
+"184","United Arab Emirates","1","1","1","1","1"
+"185","United Kingdom","1","1","1",NA,"1"
+"186","United States","1","1","1",NA,"1"
+"187","Uruguay","1","1","1","1","1"
+"188","Uzbekistan","1","1","1","1","1"
+"189","Vanuatu","1","1",NA,"1","1"
+"190","Venezuela (Bolivarian Republic of)","1",NA,NA,"1",NA
+"191","Viet Nam","1",NA,NA,"1",NA
+"192","World","1",NA,NA,NA,"1"
+"193","Yemen","1","1","1","1",NA
+"194","Zambia","1","1","1","1","1"
+"195","Zimbabwe","1","1","1","1","1"
+"196","Bolivia",NA,"1","1",NA,"1"
+"197","Burma",NA,"1",NA,NA,NA
+"198","Congo, Democratic Republic of the Congo",NA,"1",NA,NA,NA
+"199","Congo, Republic of",NA,"1",NA,NA,NA
+"200","Côte d'Ivoire",NA,"1",NA,NA,NA
+"201","Eswatini",NA,"1",NA,NA,NA
+"202","Hong Kong",NA,"1","1",NA,NA
+"203","Iran",NA,"1","1",NA,NA
+"204","Korea, North ",NA,"1",NA,NA,NA
+"205","Korea, South",NA,"1",NA,NA,NA
+"206","Kosovo",NA,"1","1",NA,"1"
+"207","Kyrgyz Republic",NA,"1",NA,NA,"1"
+"208","Laos",NA,"1","1",NA,NA
+"209","Macau",NA,"1",NA,NA,NA
+"210","Macedonia",NA,"1","1",NA,NA
+"211","Micronesia",NA,"1",NA,NA,NA
+"212","Moldova",NA,"1","1",NA,"1"
+"213","Russia",NA,"1","1",NA,NA
+"214","São Tomé and Príncipe",NA,"1",NA,NA,NA
+"215","Somalia",NA,"1",NA,"1","1"
+"216","Syria",NA,"1","1",NA,NA
+"217","Taiwan ",NA,"1",NA,NA,NA
+"218","Tanzania",NA,"1","1",NA,"1"
+"219","Venezuela",NA,"1","1",NA,NA
+"220","Vietnam",NA,"1","1",NA,"1"
+"221","Congo (Brazzaville)",NA,NA,"1",NA,NA
+"222","Congo (Kinshasa)",NA,NA,"1",NA,NA
+"223","Ivory Coast",NA,NA,"1",NA,NA
+"224","North Cyprus",NA,NA,"1",NA,NA
+"225","Palestinian Territories",NA,NA,"1",NA,NA
+"226","Somaliland region",NA,NA,"1",NA,NA
+"227","South Korea",NA,NA,"1",NA,NA
+"228","Taiwan",NA,NA,"1",NA,NA
+"229","Cook Islands",NA,NA,NA,"1",NA
+"230","Democratic People's Republic of Korea",NA,NA,NA,"1",NA
+"231","Democratic Republic of the Congo",NA,NA,NA,"1",NA
+"232","Guinea_Bissau",NA,NA,NA,"1",NA
+"233","Marshall Islands",NA,NA,NA,"1","1"
+"234","Monaco",NA,NA,NA,"1","1"
+"235","Nauru",NA,NA,NA,"1","1"
+"236","Niue",NA,NA,NA,"1",NA
+"237","Republic of Korea",NA,NA,NA,"1",NA
+"238","Republic of Moldova",NA,NA,NA,"1",NA
+"239","San Marino",NA,NA,NA,"1","1"
+"240","The former Yugoslav republic of Macedonia",NA,NA,NA,"1",NA
+"241","Timor_Leste",NA,NA,NA,"1",NA
+"242","Tuvalu",NA,NA,NA,"1","1"
+"243","United Kingdom of Great Britain and Northern Ireland",NA,NA,NA,"1",NA
+"244","United Republic of Tanzania",NA,NA,NA,"1",NA
+"245","United States of America",NA,NA,NA,"1",NA
+"246","American Samoa",NA,NA,NA,NA,"1"
+"247","Arab World",NA,NA,NA,NA,"1"
+"248","Aruba",NA,NA,NA,NA,"1"
+"249","Bahamas, The",NA,NA,NA,NA,"1"
+"250","Bermuda",NA,NA,NA,NA,"1"
+"251","British Virgin Islands",NA,NA,NA,NA,"1"
+"252","Caribbean small states",NA,NA,NA,NA,"1"
+"253","Cayman Islands",NA,NA,NA,NA,"1"
+"254","Central Europe and the Baltics",NA,NA,NA,NA,"1"
+"255","Channel Islands",NA,NA,NA,NA,"1"
+"256","Congo, Dem. Rep.",NA,NA,NA,NA,"1"
+"257","Congo, Rep.",NA,NA,NA,NA,"1"
+"258","Cote d'Ivoire",NA,NA,NA,NA,"1"
+"259","Curacao",NA,NA,NA,NA,"1"
+"260","Early-demographic dividend",NA,NA,NA,NA,"1"
+"261","East Asia & Pacific",NA,NA,NA,NA,"1"
+"262","East Asia & Pacific (excluding high income)",NA,NA,NA,NA,"1"
+"263","East Asia & Pacific (IDA & IBRD countries)",NA,NA,NA,NA,"1"
+"264","Egypt, Arab Rep.",NA,NA,NA,NA,"1"
+"265","Euro area",NA,NA,NA,NA,"1"
+"266","Europe & Central Asia",NA,NA,NA,NA,"1"
+"267","Europe & Central Asia (excluding high income)",NA,NA,NA,NA,"1"
+"268","Europe & Central Asia (IDA & IBRD countries)",NA,NA,NA,NA,"1"
+"269","European Union",NA,NA,NA,NA,"1"
+"270","Faroe Islands",NA,NA,NA,NA,"1"
+"271","Fragile and conflict affected situations",NA,NA,NA,NA,"1"
+"272","French Polynesia",NA,NA,NA,NA,"1"
+"273","Gambia, The",NA,NA,NA,NA,"1"
+"274","Gibraltar",NA,NA,NA,NA,"1"
+"275","Greenland",NA,NA,NA,NA,"1"
+"276","Guam",NA,NA,NA,NA,"1"
+"277","Heavily indebted poor countries (HIPC)",NA,NA,NA,NA,"1"
+"278","High income",NA,NA,NA,NA,"1"
+"279","Hong Kong SAR, China",NA,NA,NA,NA,"1"
+"280","IBRD only",NA,NA,NA,NA,"1"
+"281","IDA & IBRD total",NA,NA,NA,NA,"1"
+"282","IDA blend",NA,NA,NA,NA,"1"
+"283","IDA only",NA,NA,NA,NA,"1"
+"284","IDA total",NA,NA,NA,NA,"1"
+"285","Iran, Islamic Rep.",NA,NA,NA,NA,"1"
+"286","Isle of Man",NA,NA,NA,NA,"1"
+"287","Korea, Dem. Peopleâ€™s Rep.",NA,NA,NA,NA,"1"
+"288","Korea, Rep.",NA,NA,NA,NA,"1"
+"289","Lao PDR",NA,NA,NA,NA,"1"
+"290","Late-demographic dividend",NA,NA,NA,NA,"1"
+"291","Latin America & Caribbean",NA,NA,NA,NA,"1"
+"292","Latin America & Caribbean (excluding high income)",NA,NA,NA,NA,"1"
+"293","Latin America & the Caribbean (IDA & IBRD countries)",NA,NA,NA,NA,"1"
+"294","Least developed countries: UN classification",NA,NA,NA,NA,"1"
+"295","Low & middle income",NA,NA,NA,NA,"1"
+"296","Low income",NA,NA,NA,NA,"1"
+"297","Lower middle income",NA,NA,NA,NA,"1"
+"298","Macao SAR, China",NA,NA,NA,NA,"1"
+"299","Macedonia, FYR",NA,NA,NA,NA,"1"
+"300","Micronesia, Fed. Sts.",NA,NA,NA,NA,"1"
+"301","Middle East & North Africa",NA,NA,NA,NA,"1"
+"302","Middle East & North Africa (excluding high income)",NA,NA,NA,NA,"1"
+"303","Middle East & North Africa (IDA & IBRD countries)",NA,NA,NA,NA,"1"
+"304","Middle income",NA,NA,NA,NA,"1"
+"305","New Caledonia",NA,NA,NA,NA,"1"
+"306","North America",NA,NA,NA,NA,"1"
+"307","Northern Mariana Islands",NA,NA,NA,NA,"1"
+"308","Not classified",NA,NA,NA,NA,"1"
+"309","OECD members",NA,NA,NA,NA,"1"
+"310","Other small states",NA,NA,NA,NA,"1"
+"311","Pacific island small states",NA,NA,NA,NA,"1"
+"312","Post-demographic dividend",NA,NA,NA,NA,"1"
+"313","Pre-demographic dividend",NA,NA,NA,NA,"1"
+"314","Puerto Rico",NA,NA,NA,NA,"1"
+"315","Sint Maarten (Dutch part)",NA,NA,NA,NA,"1"
+"316","Slovak Republic",NA,NA,NA,NA,"1"
+"317","Small states",NA,NA,NA,NA,"1"
+"318","South Asia (IDA & IBRD)",NA,NA,NA,NA,"1"
+"319","St. Kitts and Nevis",NA,NA,NA,NA,"1"
+"320","St. Lucia",NA,NA,NA,NA,"1"
+"321","St. Martin (French part)",NA,NA,NA,NA,"1"
+"322","St. Vincent and the Grenadines",NA,NA,NA,NA,"1"
+"323","Sub-Saharan Africa (excluding high income)",NA,NA,NA,NA,"1"
+"324","Sub-Saharan Africa (IDA & IBRD countries)",NA,NA,NA,NA,"1"
+"325","Turks and Caicos Islands",NA,NA,NA,NA,"1"
+"326","Upper middle income",NA,NA,NA,NA,"1"
+"327","Venezuela, RB",NA,NA,NA,NA,"1"
+"328","Virgin Islands (U.S.)",NA,NA,NA,NA,"1"
+"329","West Bank and Gaza",NA,NA,NA,NA,"1"
+"330","Yemen, Rep.",NA,NA,NA,NA,"1"
