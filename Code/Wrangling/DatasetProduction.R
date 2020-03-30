@@ -9,6 +9,8 @@ AllIndicators <-
   )
 names(AllIndicators)[names(AllIndicators) == "Series.Name"] <-
   "Indicator.Name"
+AllIndicators2000 <-
+  AllIndicators %>% select(Country.Name, Indicator.Name, X2000) %>% drop_na(X2000)
 AllIndicators2012 <-
   AllIndicators %>% select(Country.Name, Indicator.Name, X2012) %>% drop_na(X2012)
 AllIndicators2014 <-
@@ -137,13 +139,13 @@ names(AgriculturalLand2014)[names(AgriculturalLand2014) == "X2014"] <-"Agricultu
 
 # Rural Land ====
 RuralLand <- filter(AllIndicators, Indicator.Name == "Rural land area (sq. km)")
-RuralLand2014 <- filter(AllIndicators2014, Indicator.Name == "Rural land area (sq. km)") %>% select(Country.Name, X2014)
-names(RuralLand2014)[names(RuralLand2014) == "X2014"] <-"RuralLand2014"
+RuralLand2000 <- filter(AllIndicators2000, Indicator.Name == "Rural land area (sq. km)") %>% select(Country.Name, X2000)
+names(RuralLand2000)[names(RuralLand2000) == "X2000"] <-"RuralLand2000"
 
 # Urban Land ====
 UrbanLand <- filter(AllIndicators, Indicator.Name == "Urban land area (sq. km)")
-UrbanLand2014 <- filter(AllIndicators2014, Indicator.Name == "Urban land area (sq. km)") %>% select(Country.Name, X2014)
-names(UrbanLand2014)[names(UrbanLand2014) == "X2014"] <-"UrbanLand2014"
+UrbanLand2000 <- filter(AllIndicators2000, Indicator.Name == "Urban land area (sq. km)") %>% select(Country.Name, X2000)
+names(UrbanLand2000)[names(UrbanLand2000) == "X2000"] <-"UrbanLand2000"
 
 # Permanent Crop Land ====
 PermCropLand <- filter(AllIndicators, Indicator.Name == "Permanent cropland (% of land area)")
@@ -191,6 +193,9 @@ DeathNonCom <- filter(AllIndicators, Indicator.Name == "Cause of death by non-co
 DeathNonCom2015 <- filter(AllIndicators2015, Indicator.Name == "Cause of death by non-communicable diseases (% of total)") %>% select(Country.Name, X2015)
 names(DeathNonCom2015)[names(DeathNonCom2015) == "X2015"] <-"DeathNonCompulsory"
 
+# LifeTotal ====
+LifeTotal2015 <- filter(AllIndicators2015, Indicator.Name == "Life expectancy at birth total (years)") %>% select(Country.Name, X2015)
+names(LifeTotal2015)[names(LifeTotal2015) == "X2015"] <-"LifeTotal2015"
 # CSV Creation ----
 # Life Expectancy ====
 #LifeExpectancyPrediction2 <- LifeExpectancyPrediction[-c(1:47, 51,52,57,69,75,84,87,98,103,109,113,117,123,125,127,134,142,151,153,161,162,165,169,172,176,178,180,185,188,194,198,206,212,220,224,226,229,231,237,248,249,257,260,261,70,73,79,81,114,182,184,186,191,196,200,223),1:20]
@@ -208,7 +213,7 @@ LifeExpectancyPrediction$PopTotal2014 <- PopTotal$X2014
 LifeExpectancyPrediction$RuralPOP2014 <- RuralPOP$X2014
 LifeExpectancyPrediction$Sanitation2014 <- Sanitation$X2014
 LifeExpectancyPrediction$CO22014 <- CO2$X2014
-LifeExpectancyPrediction$TotalGreenhouse2012 <- TotalGreenhouse$X2012
+LifeExpectancyPrediction$TotalGreenhouse2012 <- Greenhouse$X2012
 LifeExpectancyPrediction$Education2014 <- Education$X2014
 LifeExpectancyPrediction$Water2014 <- Water$X2014
 
@@ -216,9 +221,10 @@ write.csv(LifeExpectancyPrediction, "~/GitKraken/Final-Project-David-Adam-/Worki
 #, sep = ",", row.names = FALSE)
 LifeExpectancyPrediction2014 <-
   Surviveto65Female2014 %>% inner_join(Surviveto65Male2014) %>% inner_join(LifeFemale2014) %>% inner_join(LifeMale2014) %>% inner_join(LifeTotal2014) %>% inner_join(HealthPerCapita2014) %>% inner_join(HealthGDP2014) %>% inner_join(PopFemale2014) %>% inner_join(PopMale2014) %>% inner_join(RuralPOP2014) %>% inner_join(Sanitation2014) %>% inner_join(CO22014) %>% inner_join(Greenhouse2012) %>% inner_join(Education2014) %>% inner_join(Water2014)
-write.csv(LifeExpectancyPrediction2014, "~/GitKraken/Final-Project-David-Adam-/Working Datasets/LifeExpectancyPrediction2.csv")
+write.csv(LifeExpectancyPrediction2014, "~/GitKraken/Final-Project-David-Adam-/Working Datasets/LifeExpectancyPrediction2014.csv")
 
 # Land Investigation ====
+LandInvestigation <- AverageRain[,1:2]
 LandInvestigation$AverageRain2014 <- AverageRain$X2014
 LandInvestigation$ForestLand2014 <- ForestLand$X2014
 LandInvestigation$AgriculturalLand2014 <- AgriculturalLand$X2014
@@ -230,6 +236,21 @@ LandInvestigation$PopDensity2014 <- PopDensity$X2014
 LandInvestigation$LifeTotal2014 <- LifeTotal$X2014
 
 write.csv(LandInvestigation, "~/GitKraken/Final-Project-David-Adam-/Working Datasets/LandInvestigation.csv")
+write.csv(LandInvestigation2014, "~/GitKraken/Final-Project-David-Adam-/Working Datasets/LandInvestigation2014.csv")
 
-
+LandInvestigation2014 <-
+  AverageRain2014 %>% inner_join(ForestLand2014) %>% inner_join(AgriculturalLand2014) %>% inner_join(RuralLand2000) %>% inner_join(UrbanLand2000) %>% inner_join(PermCropLand2014) %>% inner_join(TotalLand2014) %>% inner_join(PopDensity2014) %>% inner_join(LifeTotal2014)
 # Health Investigation ====
+HealthInvestigation <- CompulsoryEdu[,1:2]
+HealthInvestigation$CompulsoryEdu2015 <- CompulsoryEdu$X2015
+HealthInvestigation$SmokingMale2015 <- SmokingMale$X2015
+HealthInvestigation$SmokingFemale2015 <- SmokingFemale$X2015
+HealthInvestigation$SmokingTotal2015 <- SmokingTotal$X2015
+HealthInvestigation$DeathCom2015 <- DeathCom$X2015
+HealthInvestigation$DeathNonCom2015 <- DeathNonCom$X2015
+HealthInvestigation$LifeTotal2015 <- LifeTotal$X2015
+
+HealthInvestigation2015 <- 
+  CompulsoryEdu2015 %>% inner_join(SmokingMale2015) %>% inner_join(SmokingFemale2015) %>% inner_join(SmokingTotal2015) %>% inner_join(DeathCom2015) %>% inner_join(DeathNonCom2015) %>% inner_join(LifeTotal2015)
+
+write.csv(HealthInvestigation2015, "~/GitKraken/Final-Project-David-Adam-/Working Datasets/HealthInvestigation2015.csv")
