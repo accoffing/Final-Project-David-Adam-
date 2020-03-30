@@ -9,6 +9,8 @@ AllIndicators <-
   )
 names(AllIndicators)[names(AllIndicators) == "Series.Name"] <-
   "Indicator.Name"
+AllIndicators2000 <-
+  AllIndicators %>% select(Country.Name, Indicator.Name, X2000) %>% drop_na(X2000)
 AllIndicators2012 <-
   AllIndicators %>% select(Country.Name, Indicator.Name, X2012) %>% drop_na(X2012)
 AllIndicators2014 <-
@@ -137,13 +139,13 @@ names(AgriculturalLand2014)[names(AgriculturalLand2014) == "X2014"] <-"Agricultu
 
 # Rural Land ====
 RuralLand <- filter(AllIndicators, Indicator.Name == "Rural land area (sq. km)")
-RuralLand2014 <- filter(AllIndicators2014, Indicator.Name == "Rural land area (sq. km)") %>% select(Country.Name, X2014)
-names(RuralLand2014)[names(RuralLand2014) == "X2014"] <-"RuralLand2014"
+RuralLand2000 <- filter(AllIndicators2000, Indicator.Name == "Rural land area (sq. km)") %>% select(Country.Name, X2000)
+names(RuralLand2000)[names(RuralLand2000) == "X2000"] <-"RuralLand2000"
 
 # Urban Land ====
 UrbanLand <- filter(AllIndicators, Indicator.Name == "Urban land area (sq. km)")
-UrbanLand2014 <- filter(AllIndicators2014, Indicator.Name == "Urban land area (sq. km)") %>% select(Country.Name, X2014)
-names(UrbanLand2014)[names(UrbanLand2014) == "X2014"] <-"UrbanLand2014"
+UrbanLand2000 <- filter(AllIndicators2000, Indicator.Name == "Urban land area (sq. km)") %>% select(Country.Name, X2000)
+names(UrbanLand2000)[names(UrbanLand2000) == "X2000"] <-"UrbanLand2000"
 
 # Permanent Crop Land ====
 PermCropLand <- filter(AllIndicators, Indicator.Name == "Permanent cropland (% of land area)")
@@ -208,7 +210,7 @@ LifeExpectancyPrediction$PopTotal2014 <- PopTotal$X2014
 LifeExpectancyPrediction$RuralPOP2014 <- RuralPOP$X2014
 LifeExpectancyPrediction$Sanitation2014 <- Sanitation$X2014
 LifeExpectancyPrediction$CO22014 <- CO2$X2014
-LifeExpectancyPrediction$TotalGreenhouse2012 <- TotalGreenhouse$X2012
+LifeExpectancyPrediction$TotalGreenhouse2012 <- Greenhouse$X2012
 LifeExpectancyPrediction$Education2014 <- Education$X2014
 LifeExpectancyPrediction$Water2014 <- Water$X2014
 
@@ -219,6 +221,7 @@ LifeExpectancyPrediction2014 <-
 write.csv(LifeExpectancyPrediction2014, "~/GitKraken/Final-Project-David-Adam-/Working Datasets/LifeExpectancyPrediction2.csv")
 
 # Land Investigation ====
+LandInvestigation <- AverageRain[,1:2]
 LandInvestigation$AverageRain2014 <- AverageRain$X2014
 LandInvestigation$ForestLand2014 <- ForestLand$X2014
 LandInvestigation$AgriculturalLand2014 <- AgriculturalLand$X2014
@@ -231,5 +234,6 @@ LandInvestigation$LifeTotal2014 <- LifeTotal$X2014
 
 write.csv(LandInvestigation, "~/GitKraken/Final-Project-David-Adam-/Working Datasets/LandInvestigation.csv")
 
-
+LandInvestigation2014 <-
+  AverageRain2014 %>% inner_join(ForestLand2014) %>% inner_join(AgriculturalLand2014) %>% inner_join(RuralLand2000) %>% inner_join(UrbanLand2000) %>% inner_join(PermCropLand2014) %>% inner_join(TotalLand2014) %>% inner_join(PopDensity2014) %>% inner_join(LifeTotal2014)
 # Health Investigation ====

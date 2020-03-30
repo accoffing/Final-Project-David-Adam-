@@ -1,218 +1,218 @@
-"","Indicator.Name","Series.Code","Country.Name","Country.Code","AverageRain2014","ForestLand2014","AgriculturalLand2014","RuralLand2010","UrbanLand2010","PermCropLand2014","TotalLand2014","PopDensity2014","LifeTotal2014"
-"1","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Afghanistan","AFG",327,13500,58.06757957,NA,NA,0.212909353,652860,51.11477805,62.966
-"2","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Albania","ALB",1485,7724.60022,42.8573007,26686.71094,1689.403809,2.934306625,27400,105.4417518,77.813
-"3","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Algeria","DZA",89,19484.00024,17.39526565,2285675.75,30195.79688,0.407181299,2381740,16.34254243,75.878
-"4","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","American Samoa","ASM",NA,175.7999992,24.50000048,87.64226532,116.1668701,9.499999881,200,278.955,NA
-"5","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Andorra","AND",NA,160,40.02127546,NA,NA,NA,470,168.5382979,NA
-"6","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Angola","AGO",1010,579808.0078,47.47734018,1248198.625,1427.029541,0.232614101,1246700,21.61047485,58.776
-"7","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Antigua and Barbuda","ATG",1030,98.00000191,20.45454545,167.8600616,266.2775574,2.272727273,440,210.3681818,76.349
-"8","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Argentina","ARG",591,274088.0078,54.33571212,2690269.5,55032.20313,0.365404923,2736690,15.59164538,75.913
-"9","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Armenia","ARM",562,3317.999878,59.03406924,NA,NA,2.012644863,28470,102.2972603,74.273
-"10","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Aruba","ABW",NA,4.199999869,11.11111111,9.008321762,172.8477478,NA,180,576.5222222,75.583
-"11","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Australia","AUS",534,1244430,52.88377179,7641564.5,36745.70313,0.045559273,7682300,3.055814795,82.3
-"12","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Austria","AUT",1110,38671.99951,32.89022473,NA,NA,0.792506369,82522.99805,103.5633242,81.4902439
-"13","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Azerbaijan","AZE",447,11131.80054,57.7005469,NA,NA,2.824722131,82662.99805,115.3488166,72.022
-"14","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Bahamas, The","BHS",1292,5150,1.398601399,12245.5166,425.8963623,0.3996004,10010,37.02627373,72.847
-"15","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Bahrain","BHR",83,5.899999738,11.15434572,115.1443634,549.2779541,3.891050661,770.9999847,1732.911837,76.624
-"16","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Bangladesh","BGD",2666,14315.99976,69.90089882,123889.625,11125.3916,6.376277176,130170,1187.064354,71.231
-"17","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Barbados","BRB",1422,63.00000191,27.90697674,14.80739212,420.3754272,2.325581395,430,662.3837209,78.717
-"18","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Belarus","BLR",618,86135.99609,42.4879174,198055.7813,7783.031738,0.580372752,202973.0078,46.67867468,72.97073171
-"19","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Belgium","BEL",847,6829.60022,43.96631601,18091.89063,12349.22852,0.736459684,30280,370.180218,81.28780488
-"20","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Belize","BLZ",1705,13713.19946,7.014467339,21296.04492,508.0564575,1.402893468,22810,15.49171416,73.782
-"21","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Benin","BEN",1039,43610,33.25647393,113916.9609,1447.184937,4.434196524,112760,91.22775807,60.345
-"22","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Bermuda","BMU",NA,10,5.555555678,22.78402901,38.61519241,NA,54.00000095,1206.277756,80.79731707
-"23","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Bhutan","BTN",2200,27450.1001,13.7891225,NA,NA,0.325314158,38116.99951,18.86444393,70.046
-"24","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Bolivia","BOL",1146,550530,34.80291701,NA,NA,0.214160436,1083300,9.883242869,69.891
-"25","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Bosnia and Herzegovina","BIH",1028,21850,42.12890625,49338.41797,1723.146729,2.0703125,51200,68.00984375,76.723
-"26","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Botswana","BWA",416,109422.002,45.87899,NA,NA,0.003529017,566730,3.685377517,66.265
-"27","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Brazil","BRA",1761,4945220,33.9284817,8241430,134981.375,0.786299344,8358140,24.25943272,74.745
-"28","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","British Virgin Islands","VGB",NA,36.19999886,46.66666667,106.7865906,51.4707756,6.666666667,150,193.26,NA
-"29","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Brunei Darussalam","BRN",2722,3800,2.732447745,4743.62207,1017.068604,1.138519924,5270,77.75502846,75.193
-"30","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Bulgaria","BGR",608,38058.00049,45.84561533,103838.0078,6678.94043,1.169859985,108560,66.54327561,74.46585366
-"31","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Burkina Faso","BFA",748,54097.99805,44.2251462,NA,NA,0.365497076,273600,64.27637792,59.45
-"32","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Burundi","BDI",1274,2713.999939,79.16666667,NA,NA,13.62928349,25680,383.3448988,59.665
-"33","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Cabo Verde","CPV",228,889.4000244,19.60297767,3913.569092,180.3818817,0.992555831,4030,128.6027295,71.886
-"34","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Cambodia","KHM",1904,95844.00391,30.90301382,176298.1875,1152.062866,0.878087469,176520,86.53128824,68.273
-"35","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Cameroon","CMR",1604,190360,20.62575363,459153.1875,3680.405762,3.278965962,472710,47.98260667,57.083
-"36","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Canada","CAN",537,3471155.938,6.888583005,9084045,126511.1641,0.52309832,9093510,3.897002917,81.8
-"37","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Cayman Islands","CYM",NA,126.9999981,11.2500002,64.61621094,160.9671021,2.083333333,240,253.5333333,NA
-"38","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Central African Republic","CAF",1343,221855.9961,8.154354875,NA,NA,0.128415037,622980,7.165839995,50.129
-"39","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Chad","TCD",322,50016.00098,39.65613088,NA,NA,0.027795426,1259200,10.85098396,52.789
-"40","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Channel Islands","CHI",NA,8.000000119,47.87878741,NA,NA,NA,197.9999924,828.7879107,82.252
-"41","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Chile","CHL",1522,174341.9922,21.19774204,709418.75,12027.5166,0.614633911,743532.0313,23.88459172,79.504
-"42","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","China","CHN",645,2067790.938,54.80841731,8868577,380679.3,1.706395348,9388211.25,145.3173521,75.629
-"43","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Colombia","COL",3240,585284.6094,40.54723764,1090598.125,36132.13672,1.70712939,1109500,42.33367192,76.322
-"44","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Comoros","COM",900,374.0000153,71.46695091,1478.78833,196.407196,28.47931126,1861.000061,408.0547959,63.214
-"45","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Congo, Dem. Rep.","COD",1543,1528894.063,11.55686906,2278811.75,9061.722656,0.396991685,2267050,32.538959,58.828
-"46","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Congo, Rep.","COG",1646,223494.0039,31.11859444,338427.125,1087.161865,0.225475842,341500,13.87108053,62.582
-"47","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Costa Rica","CRI",2926,27258.00049,34.86290591,46479.98438,4051.562988,6.149627889,51060,93.9168821,79.398
-"48","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Cote d'Ivoire","CIV",1348,104014.0039,64.77987421,314812.3438,3466.161621,14.1509434,318000,71.21912893,55.508
-"49","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Croatia","HRV",1113,19215.99976,26.96211667,51019.57031,5302.795898,1.386704762,55960,75.73961758,77.47804878
-"50","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Cuba","CUB",1335,31463.99902,60.36252794,100440.7969,9572.447266,4.102095868,104020,108.6993078,78.521
-"51","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Curacao","CUW",NA,NA,NA,NA,NA,NA,444,351.1463964,77.97560976
-"52","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Cyprus","CYP",498,1727.299957,11.79437266,6949.833984,2280.400391,2.922077922,9240,124.7061688,80.178
-"53","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Czech Republic","CZE",677,26650,45.53224553,NA,NA,0.595700596,77220,136.30338,78.82439024
-"54","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Denmark","DNK",703,6071.799927,62.61014527,33044.11719,9295.174805,0.095260776,41990,134.4004525,80.7
-"55","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Djibouti","DJI",220,55.99999905,73.4253667,21411.55273,149.8288422,NA,23180,38.77031924,63.171
-"56","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Dominica","DMA",2083,435.9999847,33.33333333,503.7093811,251.302948,22.66666667,750,94.78,NA
-"57","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Dominican Republic","DOM",1410,19498.00049,48.68557235,42784.17969,5089.375977,7.348375078,48310,210.4156075,73.003
-"58","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Ecuador","ECU",2274,126266.1035,22.55476001,244458.2344,10905.65137,5.882589789,248360,64.22869222,75.923
-"59","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Egypt, Arab Rep.","EGY",51,724.0000153,3.732171321,951268.875,24270.23242,1.079913607,995450,90.83796675,71.117
-"60","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","El Salvador","SLV",1784,2693.999939,76.88223938,16349.95117,3598.269287,10.13513514,20720,303.8189189,72.175
-"61","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Equatorial Guinea","GNQ",2156,15795.99976,10.12477718,26800.91797,97.47089386,2.139037433,28050,40.00983957,57.001
-"62","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Eritrea","ERI",384,15144.00024,75.16831683,122239.8281,366.6149292,0.01980198,101000,NA,64.201
-"63","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Estonia","EST",626,22323.99902,22.40625719,40498.62109,2614.681396,0.069013112,43470,30.24028065,77.03414634
-"64","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Eswatini","SWZ",788,5814.000244,71.04651163,16551.38672,802.2711182,0.872093023,17200,63.66401163,53.569
-"65","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Ethiopia","ETH",848,124584.0039,36.259,1117893.375,5166.71582,1.14,1e+06,98.094253,64.547
-"66","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Faroe Islands","FRO",NA,0.799999982,2.148997041,1379.931396,335.4758301,NA,1396.000061,34.35529936,81.69512195
-"67","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Fiji","FJI",2592,10123.40027,23.26217843,17199.44379,1746.58667,4.652435687,18270,47.42490421,67.03
-"68","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Finland","FIN",536,222180,7.460265549,289666.2813,20052.17383,0.010859192,303890,17.97200303,81.1804878
-"69","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","France","FRA",867,168760,52.53608375,457993.5938,86463.0625,1.817527721,547556.9922,121.1126895,82.67073171
-"70","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","French Polynesia","PYF",NA,1550,12.43169399,3787.225342,238.1499786,6.284153005,3660,74.2363388,76.546
-"71","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Gabon","GAB",1831,228000,20.02561416,261381.75,836.4829102,0.659758606,257670,7.310901541,64.318
-"72","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Gambia, The","GMB",836,4863.999939,59.7826087,10461.87305,446.1829224,0.494071146,10120,200.0041502,60.667
-"73","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Georgia","GEO",1026,28223.99902,34.76845674,64912.71484,3602.762939,1.582961577,69490,65.07250079,72.707
-"74","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Germany","DEU",700,114170,47.93637145,291859.2188,62374.19922,0.581828604,348900,232.1080539,81.0902439
-"75","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Ghana","GHA",1187,93085.99609,68.99885734,224697.4844,6239.439453,11.86604553,227540,119.646972,62.416
-"76","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Gibraltar","GIB",NA,0,NA,2.264643908,4.473595619,NA,10,3372.5,NA
-"77","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Greece","GRC",652,40238.00049,48.10705974,112653.5781,18519.16406,8.564778898,128900,84.50281614,81.38536585
-"78","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Greenland","GRL",NA,2.199999988,0.592228047,242639.5938,33.34839249,NA,410450,0.137154343,71.53841463
-"79","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Grenada","GRD",2350,169.8999977,23.52941176,153.5099182,169.5156097,11.76470588,340,320.3,72.503
-"80","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Guam","GUM",NA,250,33.33333333,33.10237503,515.956604,16.66666667,540,298.1777778,78.895
-"81","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Guatemala","GTM",1996,35763.99902,35.40313595,103568.3359,4132.351074,9.901082493,107160,148.5931598,72.935
-"82","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Guinea","GIN",1651,64000,59.01025558,243431.1875,1473.595703,2.848770959,245720,45.38082777,59.016
-"83","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Guinea-Bissau","GNB",1577,19820,57.9658606,33629.69922,306.3417664,8.890469417,28120,60.18630868,56.556
-"84","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Guyana","GUY",2387,165360,8.534417069,207343.4219,626.756958,0.152400305,196850,3.877978156,69.049
-"85","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Haiti","HTI",1440,978.0000305,66.76342525,26163.41602,764.3450928,10.15965167,27560,382.7651669,62.069
-"86","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Honduras","HND",1976,47120,28.9123246,108150.5781,3702.359375,4.066493878,111890,80.03922603,74.278
-"87","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Hong Kong SAR, China","HKG",NA,NA,4.857142766,231.1713409,901.5428467,0.952380952,1050,6885.238095,83.9804878
-"88","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Hungary","HUN",589,20643.99902,58.14647078,NA,NA,1.999337236,90530,108.985618,75.76341463
-"89","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Iceland","ISL",1940,479.0000153,18.67531123,88593.21875,1023.837036,NA,100250,3.265695761,82.86097561
-"90","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","India","IND",1083,705036.0156,60.44719645,2980489.25,222688.2344,4.372408087,2973190,435.762324,68.286
-"91","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Indonesia","IDN",2702,916943.9844,31.46442036,1838682.625,42076.82813,12.42016593,1811570,140.8330917,70.481
-"92","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Iran, Islamic Rep.","IRN",228,106919.8047,28.21410153,1545056.125,69242.76563,1.098995555,1628760,47.56118335,75.502
-"93","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Iraq","IRQ",216,8250,21.35084545,415377.6563,12429.91504,0.575867015,434128.0078,79.26683001,69.7
-"94","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Ireland","IRL",1118,7483.400269,64.82798665,63249.21484,5638.355957,0.014515895,68890,67.61126433,81.34878049
-"95","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Isle of Man","IMN",NA,34.60000038,68.24561671,333.4710388,241.8645325,NA,570,146.4701754,NA
-"96","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Israel","ISR",435,1628.000031,24.84750519,15621.7832,6399.019531,4.491681929,21640,379.6534196,82.15365854
-"97","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Italy","ITA",832,92432.00195,44.7473992,223236.4375,73540.88281,8.135581696,294140,206.6673693,83.0902439
-"98","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Jamaica","JAM",2051,3355.799866,40.99722992,8015.424316,3000.631592,8.771929825,10830,265.478855,74.042
-"99","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Japan","JPN",1668,249595.9961,12.39302172,260649.5938,108678.2422,0.811937678,364560,349.1222295,83.58780488
-"100","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Jordan","JOR",111,975,11.98468123,86229.24219,3383.973877,0.951790944,88780,100.4736314,73.969
-"101","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Kazakhstan","KAZ",250,33090,80.37633811,NA,NA,0.048894322,2699700,6.40378005,71.62
-"102","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Kenya","KEN",630,43763.99902,48.54693046,576333.75,4187.614746,0.931229574,569140,82.05359138,64.135
-"103","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Kiribati","KIR",NA,121.4999962,41.97530864,985.0445251,3.643230915,39.50617284,810,135.0506173,66.995
-"104","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Korea, Dem. People’s Rep.","PRK",1054,51580,21.8420397,119243.4453,2343.61377,1.910140354,120410,208.1035794,71.198
-"105","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Korea, Rep.","KOR",1274,61916.00098,17.94416554,77155.28906,21922.01563,2.206712512,97430,520.8524992,81.72195122
-"106","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Kosovo","XKX",NA,NA,NA,NA,NA,NA,10887,167.3371911,71.09756098
-"107","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Kuwait","KWT",121,62.5,8.535353878,13422.94238,3942.298828,0.370370365,17820,207.123569,75.019
-"108","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Kyrgyz Republic","KGZ",533,6450,55.04222945,NA,NA,0.392075062,191800,30.42492179,70.40243902
-"109","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Lao PDR","LAO",1834,185722.4023,10.26429809,227855.5313,1018.75415,0.732235702,230800,28.76844021,66.144
-"110","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Latvia","LVA",641,33556.00098,30.10614345,60137.24219,3278.516846,0.09649405,62180,32.06468318,74.12439024
-"111","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Lebanon","LBN",661,1372.200012,64.32062561,8081.997559,2317.423828,12.31671554,10230,612.1612903,78.732
-"112","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Lesotho","LSO",788,480,75.00988303,NA,NA,0.164690382,30360,67.30688406,49.891
-"113","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Liberia","LBR",2391,42090,28.03156146,95634.38281,434.2752991,2.07641196,96320,45.26064161,61.723
-"114","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Libya","LBY",56,2170,8.723871012,1606874.75,10082.89258,0.187549018,1759540,3.615738773,71.981
-"115","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Liechtenstein","LIE",NA,69.00000095,33.25000107,NA,NA,NA,160,232.64375,82.07317073
-"116","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Lithuania","LTU",656,21780,47.12529772,59360.13672,4610.856445,0.544293671,62650,46.80553871,74.51707317
-"117","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Luxembourg","LUX",934,866.9999695,53.90535205,1782.765503,801.083374,0.637860063,2430,228.9378601,82.22926829
-"118","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Macao SAR, China","MAC",NA,NA,NA,11.18112087,17.72437096,NA,30.29999971,19478.81207,83.543
-"119","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Madagascar","MDG",1513,124890,71.18425576,587832.9375,2272.414795,1.065658302,581800,40.54638536,65.133
-"120","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Malawi","MWI",1181,31650,61.4128129,92909.46094,1815.103394,1.484938481,94280,172.7783199,61.042
-"121","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Malaysia","MYS",2875,221808.0078,24.62030132,312833.0313,15564.95215,21.30573733,328550,90.90415158,75.268
-"122","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Maldives","MDV",1972,10,26.33333365,291.7807007,0,10,300,1450.05,77.36
-"123","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Mali","MLI",282,47940,33.76605283,1243208.25,2910.42749,0.122931675,1220190,13.87834681,57.036
-"124","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Malta","MLT",560,3.49999994,31.96874857,30.62650871,293.3409119,3.93749997,320,1357.99375,82.04634146
-"125","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Marshall Islands","MHL",NA,126.4000034,63.88888889,284.8295898,0,36.11111111,180,317.6611111,NA
-"126","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Mauritania","MRT",92,2280,38.52818473,1041101.875,771.6014404,0.010672359,1030700,3.813811972,63.654
-"127","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Mauritius","MUS",2041,385.6000137,42.36453202,727.6514893,1276.015869,1.97044335,2030,621.1497537,74.19439024
-"128","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Mexico","MEX",758,661316.0156,55.00450114,1831423.5,102418.1094,1.377093032,1943950,61.91266648,74.908
-"129","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Micronesia, Fed. Sts.","FSM",NA,642.3999786,31.42857143,517.3094482,243.1120605,24.28571429,700,153.4942857,67.152
-"130","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Moldova","MDA",450,4043.999939,74.77943413,31217.15234,2607.522217,8.883480377,32870,123.8860557,71.267
-"131","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Monaco","MCO",NA,NA,NA,0.483293235,1.920578122,NA,2,18661,NA
-"132","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Mongolia","MNG",241,126500.8008,72.69529339,NA,NA,0.003218414,1553560,1.892497232,68.863
-"133","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Montenegro","MNE",NA,8270,17.12416411,NA,NA,0.372490723,13450,46.23122677,76.297
-"134","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Morocco","MAR",346,56400,68.54470087,659759.4375,12057.44141,3.274703114,446300,76.6129218,75.477
-"135","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Mozambique","MOZ",1032,381463.9844,63.51890943,769595.125,2739.14502,0.381494952,786380,33.42679493,56.062
-"136","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Myanmar","MMR",2091,295874.0039,19.34219391,657996.3125,6960.023438,2.373369266,653080,80.0526842,65.378
-"137","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Namibia","NAM",285,69932.00195,47.13891824,822303.125,2467.779053,0.010931749,823290,2.761396349,61.425
-"138","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Nauru","NRU",NA,0,20.0000003,10.04919243,11.98700333,20.0000003,20,592.65,NA
-"139","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Nepal","NPL",1500,36360,28.74782002,NA,NA,1.478897803,143350,187.7009138,69.168
-"140","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Netherlands","NLD",778,3753.999939,54.58889806,21411.86328,12802.99316,1.077471037,33690,500.5938854,81.70731707
-"141","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","New Caledonia","NCL",NA,8390,10.07877492,18564.04102,208.4334564,0.218818381,18280,14.66356674,77.2528726
-"142","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","New Zealand","NZL",1732,101517.998,42.21639892,253834.7031,8116.299805,0.254452926,263310,17.12696062,81.40487805
-"143","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Nicaragua","NIC",2280,31140,42.08908094,115694.2891,2882.378662,2.376599634,120340,51.04481469,73.429
-"144","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Niger","NER",151,11544.00024,36.0637878,NA,NA,0.078945291,1266700,15.18919792,60.07
-"145","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Nigeria","NGA",1150,74026.00098,77.73642083,880103.3125,17196.23438,7.136818297,910770,193.6876511,52.672
-"146","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","North Macedonia","MKD",619,9980,50,21962.62305,2667.351074,1.506740682,25220,82.38600317,75.299
-"147","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Northern Mariana Islands","MNP",NA,296.5999985,6.52173913,379.3888855,108.512558,2.173913043,460,120.2282609,NA
-"148","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Norway","NOR",1414,121100,2.702568719,292187.8125,20282.20508,0.008079469,365123.0078,14.06986657,82.1
-"149","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Oman","OMN",125,20,4.587399188,307667.5313,5651.354004,0.101130854,309500,13.01214863,76.634
-"150","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Pakistan","PAK",494,15150,47.0267746,751709.5,35871.94141,1.053341636,770880,253.3556779,66.36
-"151","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Palau","PLW",NA,402.9999924,10.86956522,448.2705994,30.74201965,4.347826087,460,38.3173913,NA
-"152","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Panama","PAN",2928,46333.99902,30.36050578,71714.3125,2892.144043,2.488566048,74340,52.47935163,77.583
-"153","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Papua New Guinea","PNG",3142,335618.0078,2.627743674,459445.5,2003.610596,1.545731573,452860,17.54787572,63.181
-"154","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Paraguay","PRY",1130,156484.0039,55.08431915,NA,NA,0.213944123,397300,16.61093884,73.473
-"155","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Peru","PER",1738,741406.0156,18.57734375,1256339.875,16425.76758,1.07734375,1280000,23.50809297,75.529
-"156","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Philippines","PHL",2348,78000,41.72116578,282759.125,10817.37305,17.94278432,298170,337.100104,70.481
-"157","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Poland","POL",600,94137.99805,47.10800483,277840.5,30501.3418,1.227995689,306190,124.1442732,77.60243902
-"158","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Portugal","PRT",854,31933.99902,40.29590168,78286.85156,12764.67676,8.16544005,91605.5957,113.5417757,81.12195122
-"159","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Puerto Rico","PRI",2054,4926.400146,22.28861296,459.9195251,8511.401367,5.636978579,8870,398.5201804,79.20246341
-"160","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Qatar","QAT",74,0,5.822566621,9779.24707,1495.149292,0.215331611,11610,211.8172265,79.646
-"161","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Romania","ROU",637,67917.99805,60.10952712,219047.9375,15594.78906,1.847183588,230080,86.53068063,74.9097561
-"162","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Russian Federation","RUS",460,8149715,13.29447034,16305829.27,187538.1445,0.097698767,16376870,8.781877489,70.74365854
-"163","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Rwanda","RWA",1212,4732.000122,73.34819619,NA,NA,10.13376571,24670,449.2758411,66.884
-"164","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Samoa","WSM",NA,1710,12.36749117,2748.275879,108.1327591,7.77385159,2830,67.92261484,72.549
-"165","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","San Marino","SMR",NA,0,16.66666667,3.735872746,57.78162003,NA,60,549.1333333,NA
-"166","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Sao Tome and Principe","STP",3200,535.9999847,50.72916746,933.3151855,68.23683167,40.625,960,203.8822917,69.052
-"167","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Saudi Arabia","SAU",59,9770,80.74433843,1912311.875,41223.73828,0.067591142,2149690,14.3820709,74.533
-"168","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Senegal","SEN",686,83130,46.06035423,193255.5469,1796.192627,0.35319171,192530,73.62349244,66.37
-"169","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Serbia","SRB",NA,27186.00098,40.09146927,NA,NA,2.143837183,87460,81.5295678,75.33658537
-"170","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Seychelles","SYC",2330,406.6999817,3.369565114,187.9656067,122.5104828,3.043478209,460,198.6065217,73.22926829
-"171","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Sierra Leone","SLE",2526,29803.99902,54.71044611,71494.83594,710.4832764,2.285951787,72180,97.21729011,52.372
-"172","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Singapore","SGP",2497,163.5000038,0.930888592,103.5980911,565.5597534,0.141043723,709.0000153,7714.702232,82.49512195
-"173","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Sint Maarten (Dutch part)","SXM",NA,NA,NA,NA,NA,NA,34,1108.382353,NA
-"174","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Slovak Republic","SVK",824,19398.00049,39.2970055,NA,NA,0.391014959,48080,112.7006864,76.81219512
-"175","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Slovenia","SVN",1162,12478.00049,30.52830322,17680.89453,2509.15625,2.635054603,20140,102.3823237,81.07804878
-"176","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Solomon Islands","SLB",3028,21906.00098,3.8585209,28264.57813,72.10932922,2.85816363,27990,20.97459807,71.896
-"177","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Somalia","SOM",282,64397.99805,70.33665955,634302.5625,398.7160645,0.039850799,627340,21.39760895,55.509
-"178","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","South Africa","ZAF",495,92410,79.83002086,53460.3125,53460.3125,0.340452893,1213090,44.96450469,61.968
-"179","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","South Sudan","SSD",900,71570,NA,NA,NA,NA,NA,NA,56.552
-"180","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Spain","ESP",636,183837.4023,53.13368385,432138.3438,69794.58594,9.815877332,500210,92.92273645,83.22926829
-"181","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Sri Lanka","LKA",1712,20766.00098,43.69319088,61106.80859,4016.146484,15.94642003,62710,331.3347154,76.147
-"182","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","St. Kitts and Nevis","KNA",1427,110,23.07692308,36.29169846,230.6646423,0.38461539,260,195.2846154,NA
-"183","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","St. Lucia","LCA",2301,203.6000061,17.37704981,263.5793762,351.2103882,11.47540984,610,292.2885246,75.44
-"184","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","St. Martin (French part)","MAF",NA,10,NA,NA,NA,NA,54.4,662.0404412,79.32195122
-"185","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","St. Vincent and the Grenadines","VCT",1583,270,25.64102564,322.5854187,111.6811523,7.692307692,390,279.1307692,72.01
-"186","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Sudan","SDN",250,193843.4961,NA,2489483.5,6517.513672,NA,NA,NA,64.169
-"187","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Suriname","SUR",2331,153357.998,0.565384596,139976.1719,692.7034912,0.038461538,156000,3.546621795,71.133
-"188","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Sweden","SWE",624,280730,7.445680075,390507.2813,31152.32031,0.012275662,407310,23.80523434,82.25365854
-"189","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Switzerland","CHE",1537,12501.99951,38.51351318,30190.08398,7898.148926,0.646320485,39516.00098,207.2236258,83.19756098
-"190","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Syrian Arab Republic","SYR",252,4910,75.81005282,173463.2344,11955.19727,5.83238033,183630,101.9205576,69.821
-"191","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Tajikistan","TJK",691,4116.000061,34.13889105,NA,NA,0.958309943,138785.9961,59.46445054,69.874
-"192","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Tanzania","TZA",1071,464320,44.76179725,886549.5625,3405.80542,2.427184466,885800,56.4007925,62.288
-"193","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Thailand","THA",1622,163690,43.27741784,474183.4375,36597.01563,8.808158312,510890,133.9598152,75.747
-"194","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Timor-Leste","TLS",1500,6972.000122,25.55480834,14569.63867,359.4190674,5.043712172,14870,78.97316745,68.197
-"195","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Togo","TGO",1168,2078.000031,70.2334988,55426.64063,1663.073608,3.125574554,54390,131.2373047,59.58
-"196","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Tonga","TON",NA,90,45.83333333,552.3500366,181.8270264,15.27777778,720,140.3166667,70.427
-"197","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Trinidad and Tobago","TTO",2200,2328.600006,10.52631579,2879.285645,2286.748047,4.288499025,5130,265.5637427,72.768
-"198","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Tunisia","TUN",207,10308.00049,64.83650875,144635.9063,9897.881836,15.01029866,155360,71.21009912,75.734
-"199","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Turkey","TUR",593,116125.9961,50.10329639,723511.5,44090.15625,4.207216455,769630,100.3493978,76.172
-"200","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Turkmenistan","TKM",161,41270,72.00646905,NA,NA,0.12767859,469930,11.63221756,67.552
-"201","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Turks and Caicos Islands","TCA",NA,344.0000153,1.052631579,965.7578735,17.49214363,NA,950,37.23052632,NA
-"202","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Tuvalu","TUV",NA,10,59.99999841,38.7635994,0,59.99999841,30,365.7333333,NA
-"203","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Uganda","UGA",1180,22121.99951,71.88809096,NA,NA,10.97147417,200520,184.0821265,60.669
-"204","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Ukraine","UKR",565,96352.00195,71.65840943,553950.875,32160.1582,1.541542233,579290,78.15074833,71.18658537
-"205","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","United Arab Emirates","ARE",78,3215.400085,5.456209518,70575.10938,8568.158203,0.542100817,71020,129.740566,77.095
-"206","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","United Kingdom","GBR",1220,31270,71.22721448,183648.9219,58698.75,0.185177528,241930,267.0737817,81.30487805
-"207","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","United States","USA",715,3098200,44.58803685,8549545.51,802053.5923,0.28423315,9147420,34.80614436,78.84146341
-"208","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Uruguay","URY",1300,18222.6001,82.55970523,168731.9219,4689.679688,0.222831676,175020,19.42883099,77.244
-"209","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Uzbekistan","UZB",206,32310.2002,62.92900799,NA,NA,0.869769629,425400,72.30300893,70.671
-"210","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Vanuatu","VUT",NA,4400,15.34044299,12210.13477,97.80545807,10.25430681,12190,21.64790812,69.719
-"211","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Venezuela, RB","VEN",2044,468473.9844,24.48840769,868222.75,34403.92578,0.793605805,882050,34.06284678,72.762
-"212","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Vietnam","VNM",1821,146440,39.17825007,318130.0938,7589.041504,14.52252717,310070,295.7867417,75.056
-"213","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Virgin Islands (U.S.)","VIR",NA,177.0999908,11.42857143,63.46201324,302.0132141,2.857142857,350,308.24,78.96829268
-"214","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","West Bank and Gaza","PSE",402,91.70000076,49.50166113,3505.060059,2496.458252,13.95348837,6020,693.2554817,73.303
-"215","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Yemen, Rep.","YEM",167,5490,44.5972309,411287.5938,4703.399902,0.564426009,527970,48.91089456,66.066
-"216","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Zambia","ZMB",1020,488016.0156,32.06392338,NA,NA,0.048426802,743390,20.71557729,60.831
-"217","People using at least basic drinking water services (% of population)","SH.H2O.BASW.ZS","Zimbabwe","ZWE",657,143744.0039,41.87669639,NA,NA,0.258498126,386850,35.12131576,58.41
+"","Indicator.Name","Series.Code","AverageRain2014","ForestLand2014","AgriculturalLand2014","RuralLand2010","UrbanLand2010","PermCropLand2014","TotalLand2014","PopDensity2014","LifeTotal2014"
+"1","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",327,13500,58.06757957,NA,NA,0.212909353,652860,51.11477805,62.966
+"2","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1485,7724.60022,42.8573007,NA,NA,2.934306625,27400,105.4417518,77.813
+"3","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",89,19484.00024,17.39526565,NA,NA,0.407181299,2381740,16.34254243,75.878
+"4","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,175.7999992,24.50000048,NA,NA,9.499999881,200,278.955,NA
+"5","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,160,40.02127546,NA,NA,NA,470,168.5382979,NA
+"6","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1010,579808.0078,47.47734018,NA,NA,0.232614101,1246700,21.61047485,58.776
+"7","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1030,98.00000191,20.45454545,NA,NA,2.272727273,440,210.3681818,76.349
+"8","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",591,274088.0078,54.33571212,NA,NA,0.365404923,2736690,15.59164538,75.913
+"9","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",562,3317.999878,59.03406924,NA,NA,2.012644863,28470,102.2972603,74.273
+"10","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,4.199999869,11.11111111,NA,NA,NA,180,576.5222222,75.583
+"11","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",534,1244430,52.88377179,NA,NA,0.045559273,7682300,3.055814795,82.3
+"12","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1110,38671.99951,32.89022473,NA,NA,0.792506369,82522.99805,103.5633242,81.4902439
+"13","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",447,11131.80054,57.7005469,NA,NA,2.824722131,82662.99805,115.3488166,72.022
+"14","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1292,5150,1.398601399,NA,NA,0.3996004,10010,37.02627373,72.847
+"15","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",83,5.899999738,11.15434572,NA,NA,3.891050661,770.9999847,1732.911837,76.624
+"16","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",2666,14315.99976,69.90089882,NA,NA,6.376277176,130170,1187.064354,71.231
+"17","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1422,63.00000191,27.90697674,NA,NA,2.325581395,430,662.3837209,78.717
+"18","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",618,86135.99609,42.4879174,NA,NA,0.580372752,202973.0078,46.67867468,72.97073171
+"19","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",847,6829.60022,43.96631601,NA,NA,0.736459684,30280,370.180218,81.28780488
+"20","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1705,13713.19946,7.014467339,NA,NA,1.402893468,22810,15.49171416,73.782
+"21","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1039,43610,33.25647393,NA,NA,4.434196524,112760,91.22775807,60.345
+"22","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,10,5.555555678,NA,NA,NA,54.00000095,1206.277756,80.79731707
+"23","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",2200,27450.1001,13.7891225,NA,NA,0.325314158,38116.99951,18.86444393,70.046
+"24","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1146,550530,34.80291701,NA,NA,0.214160436,1083300,9.883242869,69.891
+"25","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1028,21850,42.12890625,NA,NA,2.0703125,51200,68.00984375,76.723
+"26","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",416,109422.002,45.87899,NA,NA,0.003529017,566730,3.685377517,66.265
+"27","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1761,4945220,33.9284817,NA,NA,0.786299344,8358140,24.25943272,74.745
+"28","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,36.19999886,46.66666667,NA,NA,6.666666667,150,193.26,NA
+"29","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",2722,3800,2.732447745,NA,NA,1.138519924,5270,77.75502846,75.193
+"30","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",608,38058.00049,45.84561533,NA,NA,1.169859985,108560,66.54327561,74.46585366
+"31","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",748,54097.99805,44.2251462,NA,NA,0.365497076,273600,64.27637792,59.45
+"32","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1274,2713.999939,79.16666667,NA,NA,13.62928349,25680,383.3448988,59.665
+"33","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",228,889.4000244,19.60297767,NA,NA,0.992555831,4030,128.6027295,71.886
+"34","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1904,95844.00391,30.90301382,NA,NA,0.878087469,176520,86.53128824,68.273
+"35","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1604,190360,20.62575363,NA,NA,3.278965962,472710,47.98260667,57.083
+"36","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",537,3471155.938,6.888583005,NA,NA,0.52309832,9093510,3.897002917,81.8
+"37","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,126.9999981,11.2500002,NA,NA,2.083333333,240,253.5333333,NA
+"38","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1343,221855.9961,8.154354875,NA,NA,0.128415037,622980,7.165839995,50.129
+"39","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",322,50016.00098,39.65613088,NA,NA,0.027795426,1259200,10.85098396,52.789
+"40","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,8.000000119,47.87878741,NA,NA,NA,197.9999924,828.7879107,82.252
+"41","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1522,174341.9922,21.19774204,NA,NA,0.614633911,743532.0313,23.88459172,79.504
+"42","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",645,2067790.938,54.80841731,NA,NA,1.706395348,9388211.25,145.3173521,75.629
+"43","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",3240,585284.6094,40.54723764,NA,NA,1.70712939,1109500,42.33367192,76.322
+"44","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",900,374.0000153,71.46695091,NA,NA,28.47931126,1861.000061,408.0547959,63.214
+"45","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1543,1528894.063,11.55686906,NA,NA,0.396991685,2267050,32.538959,58.828
+"46","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1646,223494.0039,31.11859444,NA,NA,0.225475842,341500,13.87108053,62.582
+"47","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",2926,27258.00049,34.86290591,NA,NA,6.149627889,51060,93.9168821,79.398
+"48","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1348,104014.0039,64.77987421,NA,NA,14.1509434,318000,71.21912893,55.508
+"49","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1113,19215.99976,26.96211667,NA,NA,1.386704762,55960,75.73961758,77.47804878
+"50","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1335,31463.99902,60.36252794,NA,NA,4.102095868,104020,108.6993078,78.521
+"51","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,NA,NA,NA,NA,NA,444,351.1463964,77.97560976
+"52","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",498,1727.299957,11.79437266,NA,NA,2.922077922,9240,124.7061688,80.178
+"53","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",677,26650,45.53224553,NA,NA,0.595700596,77220,136.30338,78.82439024
+"54","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",703,6071.799927,62.61014527,NA,NA,0.095260776,41990,134.4004525,80.7
+"55","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",220,55.99999905,73.4253667,NA,NA,NA,23180,38.77031924,63.171
+"56","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",2083,435.9999847,33.33333333,NA,NA,22.66666667,750,94.78,NA
+"57","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1410,19498.00049,48.68557235,NA,NA,7.348375078,48310,210.4156075,73.003
+"58","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",2274,126266.1035,22.55476001,NA,NA,5.882589789,248360,64.22869222,75.923
+"59","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",51,724.0000153,3.732171321,NA,NA,1.079913607,995450,90.83796675,71.117
+"60","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1784,2693.999939,76.88223938,NA,NA,10.13513514,20720,303.8189189,72.175
+"61","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",2156,15795.99976,10.12477718,NA,NA,2.139037433,28050,40.00983957,57.001
+"62","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",384,15144.00024,75.16831683,NA,NA,0.01980198,101000,NA,64.201
+"63","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",626,22323.99902,22.40625719,NA,NA,0.069013112,43470,30.24028065,77.03414634
+"64","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",788,5814.000244,71.04651163,NA,NA,0.872093023,17200,63.66401163,53.569
+"65","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",848,124584.0039,36.259,NA,NA,1.14,1e+06,98.094253,64.547
+"66","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,0.799999982,2.148997041,NA,NA,NA,1396.000061,34.35529936,81.69512195
+"67","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",2592,10123.40027,23.26217843,NA,NA,4.652435687,18270,47.42490421,67.03
+"68","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",536,222180,7.460265549,NA,NA,0.010859192,303890,17.97200303,81.1804878
+"69","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",867,168760,52.53608375,NA,NA,1.817527721,547556.9922,121.1126895,82.67073171
+"70","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,1550,12.43169399,NA,NA,6.284153005,3660,74.2363388,76.546
+"71","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1831,228000,20.02561416,NA,NA,0.659758606,257670,7.310901541,64.318
+"72","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",836,4863.999939,59.7826087,NA,NA,0.494071146,10120,200.0041502,60.667
+"73","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1026,28223.99902,34.76845674,NA,NA,1.582961577,69490,65.07250079,72.707
+"74","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",700,114170,47.93637145,NA,NA,0.581828604,348900,232.1080539,81.0902439
+"75","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1187,93085.99609,68.99885734,NA,NA,11.86604553,227540,119.646972,62.416
+"76","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,0,NA,NA,NA,NA,10,3372.5,NA
+"77","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",652,40238.00049,48.10705974,NA,NA,8.564778898,128900,84.50281614,81.38536585
+"78","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,2.199999988,0.592228047,NA,NA,NA,410450,0.137154343,71.53841463
+"79","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",2350,169.8999977,23.52941176,NA,NA,11.76470588,340,320.3,72.503
+"80","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,250,33.33333333,NA,NA,16.66666667,540,298.1777778,78.895
+"81","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1996,35763.99902,35.40313595,NA,NA,9.901082493,107160,148.5931598,72.935
+"82","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1651,64000,59.01025558,NA,NA,2.848770959,245720,45.38082777,59.016
+"83","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1577,19820,57.9658606,NA,NA,8.890469417,28120,60.18630868,56.556
+"84","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",2387,165360,8.534417069,NA,NA,0.152400305,196850,3.877978156,69.049
+"85","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1440,978.0000305,66.76342525,NA,NA,10.15965167,27560,382.7651669,62.069
+"86","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1976,47120,28.9123246,NA,NA,4.066493878,111890,80.03922603,74.278
+"87","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,NA,4.857142766,NA,NA,0.952380952,1050,6885.238095,83.9804878
+"88","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",589,20643.99902,58.14647078,NA,NA,1.999337236,90530,108.985618,75.76341463
+"89","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1940,479.0000153,18.67531123,NA,NA,NA,100250,3.265695761,82.86097561
+"90","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1083,705036.0156,60.44719645,NA,NA,4.372408087,2973190,435.762324,68.286
+"91","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",2702,916943.9844,31.46442036,NA,NA,12.42016593,1811570,140.8330917,70.481
+"92","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",228,106919.8047,28.21410153,NA,NA,1.098995555,1628760,47.56118335,75.502
+"93","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",216,8250,21.35084545,NA,NA,0.575867015,434128.0078,79.26683001,69.7
+"94","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1118,7483.400269,64.82798665,NA,NA,0.014515895,68890,67.61126433,81.34878049
+"95","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,34.60000038,68.24561671,NA,NA,NA,570,146.4701754,NA
+"96","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",435,1628.000031,24.84750519,NA,NA,4.491681929,21640,379.6534196,82.15365854
+"97","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",832,92432.00195,44.7473992,NA,NA,8.135581696,294140,206.6673693,83.0902439
+"98","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",2051,3355.799866,40.99722992,NA,NA,8.771929825,10830,265.478855,74.042
+"99","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1668,249595.9961,12.39302172,NA,NA,0.811937678,364560,349.1222295,83.58780488
+"100","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",111,975,11.98468123,NA,NA,0.951790944,88780,100.4736314,73.969
+"101","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",250,33090,80.37633811,NA,NA,0.048894322,2699700,6.40378005,71.62
+"102","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",630,43763.99902,48.54693046,NA,NA,0.931229574,569140,82.05359138,64.135
+"103","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,121.4999962,41.97530864,NA,NA,39.50617284,810,135.0506173,66.995
+"104","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1054,51580,21.8420397,NA,NA,1.910140354,120410,208.1035794,71.198
+"105","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1274,61916.00098,17.94416554,NA,NA,2.206712512,97430,520.8524992,81.72195122
+"106","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,NA,NA,NA,NA,NA,10887,167.3371911,71.09756098
+"107","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",121,62.5,8.535353878,NA,NA,0.370370365,17820,207.123569,75.019
+"108","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",533,6450,55.04222945,NA,NA,0.392075062,191800,30.42492179,70.40243902
+"109","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1834,185722.4023,10.26429809,NA,NA,0.732235702,230800,28.76844021,66.144
+"110","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",641,33556.00098,30.10614345,NA,NA,0.09649405,62180,32.06468318,74.12439024
+"111","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",661,1372.200012,64.32062561,NA,NA,12.31671554,10230,612.1612903,78.732
+"112","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",788,480,75.00988303,NA,NA,0.164690382,30360,67.30688406,49.891
+"113","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",2391,42090,28.03156146,NA,NA,2.07641196,96320,45.26064161,61.723
+"114","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",56,2170,8.723871012,NA,NA,0.187549018,1759540,3.615738773,71.981
+"115","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,69.00000095,33.25000107,NA,NA,NA,160,232.64375,82.07317073
+"116","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",656,21780,47.12529772,NA,NA,0.544293671,62650,46.80553871,74.51707317
+"117","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",934,866.9999695,53.90535205,NA,NA,0.637860063,2430,228.9378601,82.22926829
+"118","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,NA,NA,NA,NA,NA,30.29999971,19478.81207,83.543
+"119","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1513,124890,71.18425576,NA,NA,1.065658302,581800,40.54638536,65.133
+"120","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1181,31650,61.4128129,NA,NA,1.484938481,94280,172.7783199,61.042
+"121","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",2875,221808.0078,24.62030132,NA,NA,21.30573733,328550,90.90415158,75.268
+"122","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1972,10,26.33333365,NA,NA,10,300,1450.05,77.36
+"123","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",282,47940,33.76605283,NA,NA,0.122931675,1220190,13.87834681,57.036
+"124","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",560,3.49999994,31.96874857,NA,NA,3.93749997,320,1357.99375,82.04634146
+"125","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,126.4000034,63.88888889,NA,NA,36.11111111,180,317.6611111,NA
+"126","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",92,2280,38.52818473,NA,NA,0.010672359,1030700,3.813811972,63.654
+"127","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",2041,385.6000137,42.36453202,NA,NA,1.97044335,2030,621.1497537,74.19439024
+"128","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",758,661316.0156,55.00450114,NA,NA,1.377093032,1943950,61.91266648,74.908
+"129","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,642.3999786,31.42857143,NA,NA,24.28571429,700,153.4942857,67.152
+"130","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",450,4043.999939,74.77943413,NA,NA,8.883480377,32870,123.8860557,71.267
+"131","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,NA,NA,NA,NA,NA,2,18661,NA
+"132","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",241,126500.8008,72.69529339,NA,NA,0.003218414,1553560,1.892497232,68.863
+"133","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,8270,17.12416411,NA,NA,0.372490723,13450,46.23122677,76.297
+"134","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",346,56400,68.54470087,NA,NA,3.274703114,446300,76.6129218,75.477
+"135","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1032,381463.9844,63.51890943,NA,NA,0.381494952,786380,33.42679493,56.062
+"136","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",2091,295874.0039,19.34219391,NA,NA,2.373369266,653080,80.0526842,65.378
+"137","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",285,69932.00195,47.13891824,NA,NA,0.010931749,823290,2.761396349,61.425
+"138","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,0,20.0000003,NA,NA,20.0000003,20,592.65,NA
+"139","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1500,36360,28.74782002,NA,NA,1.478897803,143350,187.7009138,69.168
+"140","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",778,3753.999939,54.58889806,NA,NA,1.077471037,33690,500.5938854,81.70731707
+"141","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,8390,10.07877492,NA,NA,0.218818381,18280,14.66356674,77.2528726
+"142","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1732,101517.998,42.21639892,NA,NA,0.254452926,263310,17.12696062,81.40487805
+"143","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",2280,31140,42.08908094,NA,NA,2.376599634,120340,51.04481469,73.429
+"144","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",151,11544.00024,36.0637878,NA,NA,0.078945291,1266700,15.18919792,60.07
+"145","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1150,74026.00098,77.73642083,NA,NA,7.136818297,910770,193.6876511,52.672
+"146","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",619,9980,50,NA,NA,1.506740682,25220,82.38600317,75.299
+"147","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,296.5999985,6.52173913,NA,NA,2.173913043,460,120.2282609,NA
+"148","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1414,121100,2.702568719,NA,NA,0.008079469,365123.0078,14.06986657,82.1
+"149","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",125,20,4.587399188,NA,NA,0.101130854,309500,13.01214863,76.634
+"150","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",494,15150,47.0267746,NA,NA,1.053341636,770880,253.3556779,66.36
+"151","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,402.9999924,10.86956522,NA,NA,4.347826087,460,38.3173913,NA
+"152","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",2928,46333.99902,30.36050578,NA,NA,2.488566048,74340,52.47935163,77.583
+"153","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",3142,335618.0078,2.627743674,NA,NA,1.545731573,452860,17.54787572,63.181
+"154","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1130,156484.0039,55.08431915,NA,NA,0.213944123,397300,16.61093884,73.473
+"155","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1738,741406.0156,18.57734375,NA,NA,1.07734375,1280000,23.50809297,75.529
+"156","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",2348,78000,41.72116578,NA,NA,17.94278432,298170,337.100104,70.481
+"157","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",600,94137.99805,47.10800483,NA,NA,1.227995689,306190,124.1442732,77.60243902
+"158","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",854,31933.99902,40.29590168,NA,NA,8.16544005,91605.5957,113.5417757,81.12195122
+"159","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",2054,4926.400146,22.28861296,NA,NA,5.636978579,8870,398.5201804,79.20246341
+"160","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",74,0,5.822566621,NA,NA,0.215331611,11610,211.8172265,79.646
+"161","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",637,67917.99805,60.10952712,NA,NA,1.847183588,230080,86.53068063,74.9097561
+"162","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",460,8149715,13.29447034,NA,NA,0.097698767,16376870,8.781877489,70.74365854
+"163","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1212,4732.000122,73.34819619,NA,NA,10.13376571,24670,449.2758411,66.884
+"164","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,1710,12.36749117,NA,NA,7.77385159,2830,67.92261484,72.549
+"165","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,0,16.66666667,NA,NA,NA,60,549.1333333,NA
+"166","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",3200,535.9999847,50.72916746,NA,NA,40.625,960,203.8822917,69.052
+"167","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",59,9770,80.74433843,NA,NA,0.067591142,2149690,14.3820709,74.533
+"168","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",686,83130,46.06035423,NA,NA,0.35319171,192530,73.62349244,66.37
+"169","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,27186.00098,40.09146927,NA,NA,2.143837183,87460,81.5295678,75.33658537
+"170","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",2330,406.6999817,3.369565114,NA,NA,3.043478209,460,198.6065217,73.22926829
+"171","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",2526,29803.99902,54.71044611,NA,NA,2.285951787,72180,97.21729011,52.372
+"172","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",2497,163.5000038,0.930888592,NA,NA,0.141043723,709.0000153,7714.702232,82.49512195
+"173","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,NA,NA,NA,NA,NA,34,1108.382353,NA
+"174","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",824,19398.00049,39.2970055,NA,NA,0.391014959,48080,112.7006864,76.81219512
+"175","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1162,12478.00049,30.52830322,NA,NA,2.635054603,20140,102.3823237,81.07804878
+"176","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",3028,21906.00098,3.8585209,NA,NA,2.85816363,27990,20.97459807,71.896
+"177","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",282,64397.99805,70.33665955,NA,NA,0.039850799,627340,21.39760895,55.509
+"178","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",495,92410,79.83002086,NA,NA,0.340452893,1213090,44.96450469,61.968
+"179","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",900,71570,NA,NA,NA,NA,NA,NA,56.552
+"180","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",636,183837.4023,53.13368385,NA,NA,9.815877332,500210,92.92273645,83.22926829
+"181","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1712,20766.00098,43.69319088,NA,NA,15.94642003,62710,331.3347154,76.147
+"182","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1427,110,23.07692308,NA,NA,0.38461539,260,195.2846154,NA
+"183","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",2301,203.6000061,17.37704981,NA,NA,11.47540984,610,292.2885246,75.44
+"184","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,10,NA,NA,NA,NA,54.4,662.0404412,79.32195122
+"185","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1583,270,25.64102564,NA,NA,7.692307692,390,279.1307692,72.01
+"186","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",250,193843.4961,NA,NA,NA,NA,NA,NA,64.169
+"187","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",2331,153357.998,0.565384596,NA,NA,0.038461538,156000,3.546621795,71.133
+"188","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",624,280730,7.445680075,NA,NA,0.012275662,407310,23.80523434,82.25365854
+"189","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1537,12501.99951,38.51351318,NA,NA,0.646320485,39516.00098,207.2236258,83.19756098
+"190","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",252,4910,75.81005282,NA,NA,5.83238033,183630,101.9205576,69.821
+"191","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",691,4116.000061,34.13889105,NA,NA,0.958309943,138785.9961,59.46445054,69.874
+"192","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1071,464320,44.76179725,NA,NA,2.427184466,885800,56.4007925,62.288
+"193","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1622,163690,43.27741784,NA,NA,8.808158312,510890,133.9598152,75.747
+"194","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1500,6972.000122,25.55480834,NA,NA,5.043712172,14870,78.97316745,68.197
+"195","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1168,2078.000031,70.2334988,NA,NA,3.125574554,54390,131.2373047,59.58
+"196","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,90,45.83333333,NA,NA,15.27777778,720,140.3166667,70.427
+"197","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",2200,2328.600006,10.52631579,NA,NA,4.288499025,5130,265.5637427,72.768
+"198","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",207,10308.00049,64.83650875,NA,NA,15.01029866,155360,71.21009912,75.734
+"199","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",593,116125.9961,50.10329639,NA,NA,4.207216455,769630,100.3493978,76.172
+"200","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",161,41270,72.00646905,NA,NA,0.12767859,469930,11.63221756,67.552
+"201","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,344.0000153,1.052631579,NA,NA,NA,950,37.23052632,NA
+"202","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,10,59.99999841,NA,NA,59.99999841,30,365.7333333,NA
+"203","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1180,22121.99951,71.88809096,NA,NA,10.97147417,200520,184.0821265,60.669
+"204","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",565,96352.00195,71.65840943,NA,NA,1.541542233,579290,78.15074833,71.18658537
+"205","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",78,3215.400085,5.456209518,NA,NA,0.542100817,71020,129.740566,77.095
+"206","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1220,31270,71.22721448,NA,NA,0.185177528,241930,267.0737817,81.30487805
+"207","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",715,3098200,44.58803685,NA,NA,0.28423315,9147420,34.80614436,78.84146341
+"208","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1300,18222.6001,82.55970523,NA,NA,0.222831676,175020,19.42883099,77.244
+"209","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",206,32310.2002,62.92900799,NA,NA,0.869769629,425400,72.30300893,70.671
+"210","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,4400,15.34044299,NA,NA,10.25430681,12190,21.64790812,69.719
+"211","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",2044,468473.9844,24.48840769,NA,NA,0.793605805,882050,34.06284678,72.762
+"212","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1821,146440,39.17825007,NA,NA,14.52252717,310070,295.7867417,75.056
+"213","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",NA,177.0999908,11.42857143,NA,NA,2.857142857,350,308.24,78.96829268
+"214","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",402,91.70000076,49.50166113,NA,NA,13.95348837,6020,693.2554817,73.303
+"215","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",167,5490,44.5972309,NA,NA,0.564426009,527970,48.91089456,66.066
+"216","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",1020,488016.0156,32.06392338,NA,NA,0.048426802,743390,20.71557729,60.831
+"217","Average precipitation in depth (mm per year)","AG.LND.PRCP.MM",657,143744.0039,41.87669639,NA,NA,0.258498126,386850,35.12131576,58.41
